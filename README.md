@@ -1,4 +1,4 @@
-# vue-project-web-music-application_with_deezer_API
+# Grovvy Music Web Application (like Spotify and Deezer)
 
 Grovvy is a music web app that allows users to explore a wide range of music genres, discover top trending hits, explore albums, and find information about their favorite artists. 
 
