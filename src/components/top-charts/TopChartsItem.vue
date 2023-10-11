@@ -80,7 +80,11 @@ export default {
   align-items: center;
   width: 100%;
   gap: 2rem;
-  padding: 0.5rem 0;
+  padding: 0.5rem 0 0.5rem 0.5rem;
+}
+
+.main__top-charts__charts-container__item:hover {
+  background-color: #2e2e37;
 }
 
 .main__top-charts__charts-container__item-image {
