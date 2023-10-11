@@ -247,8 +247,12 @@ export default {
   align-items: center;
   width: 100%;
   gap: 2rem;
-  padding: 0.5rem 0;
+  padding: 0.5rem 0 0.5rem 0.5rem;
   margin-left: 2rem;
+}
+
+.playlist-detail__container__playlist-box__playlist-list__item:hover {
+  background-color: #2e2e37;
 }
 
 .playlist-detail__container__playlist-box__playlist-list__item-number {

@@ -244,8 +244,12 @@ export default {
   align-items: center;
   width: 100%;
   gap: 2rem;
-  padding: 0.5rem 0;
+  padding: 0.5rem 0 0.5rem 0.5rem;
   margin-left: 2rem;
+}
+
+.album-detail__container__album-box__playlist__item:hover{
+  background-color: #2e2e37;
 }
 
 .album-detail__container__album-box__playlist__item-number {
